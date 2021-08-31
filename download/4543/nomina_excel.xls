@@ -1,0 +1,3118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>.:SIGE:. Ministerio de Educación</title>
+    <meta content="text/html;charset=iso-8859-1" http-equiv="Cache-Control" />
+    <meta content="no-cache" http-equiv="Pragma" />
+    <meta content="-1" http-equiv="Expires" />
+    <meta content="Mineduc - Informatica" name="Author" />
+    <link type="image/ico" href="https://staticv2.mineduc.cl/img/favicon.ico" rel="icon" />
+    <link type="../image/ico" href="favicon.ico" rel="icon" />
+  </head>
+  <body>
+    <br />
+    <br />
+    <table width="100%">
+      <thead>
+        <tr>
+          <th scope="col">Año</th>
+          <th scope="col">RBD</th>
+          <th scope="col">Cod Tipo Enseñanza</th>
+          <th scope="col">Cod Grado</th>
+          <th scope="col">Desc Grado</th>
+          <th scope="col">Letra Curso</th>
+          <th scope="col">Run</th>
+          <th scope="col">Dígito Ver.</th>
+          <th scope="col">Genero</th>
+          <th scope="col">Nombres</th>
+          <th scope="col">Apellido Paterno</th>
+          <th scope="col">Apellido Materno</th>
+          <th scope="col">Dirección</th>
+          <th scope="col">Comuna Residencia</th>
+          <th scope="col">Código Comuna Residencia</th>
+          <th scope="col">Email</th>
+          <th scope="col">Telefono</th>
+          <th scope="col">Celular</th>
+          <th scope="col">Fecha Nacimiento</th>
+          <th scope="col">Código Etnia</th>
+          <th scope="col">Fecha Incorporación Curso</th>
+          <th scope="col">Fecha Retiro</th>
+          <th scope="col">%Asistenca</th>
+          <th scope="col">Promedio Final</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>1</td>
+          <td>1º Básico</td>
+          <td>A</td>
+          <td>24715249</td>
+          <td>0</td>
+          <td>F</td>
+          <td>ISABELLA ANTONIA</td>
+          <td>TORRES</td>
+          <td>CASANOVA</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2014-08-18</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>1</td>
+          <td>1º Básico</td>
+          <td>A</td>
+          <td>24758785</td>
+          <td>3</td>
+          <td>M</td>
+          <td>JOEL ESTEBAN</td>
+          <td>TRONCOSO</td>
+          <td>VÁSQUEZ</td>
+          <td>BLANCO SUR</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>957644037</td>
+          <td>95764403</td>
+          <td>2014-09-29</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>1</td>
+          <td>1º Básico</td>
+          <td>A</td>
+          <td>24727134</td>
+          <td>1</td>
+          <td>F</td>
+          <td>MATILDA JOSEFA</td>
+          <td>CÓRDOVA</td>
+          <td>DÍAZ</td>
+          <td>VILLA PRODUCCIÓN Y COMERCIO PASAJE 2 CASA 5135</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>94701848</td>
+          <td>2014-08-26</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>1</td>
+          <td>1º Básico</td>
+          <td>A</td>
+          <td>24229589</td>
+          <td>7</td>
+          <td>F</td>
+          <td>ANTONELLA ANAHYS</td>
+          <td>LÓPEZ</td>
+          <td>INZUNZA</td>
+          <td>LOS ACACIOS 29</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>67661283</td>
+          <td>2013-03-28</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>1</td>
+          <td>1º Básico</td>
+          <td>A</td>
+          <td>24718831</td>
+          <td>2</td>
+          <td>M</td>
+          <td>BENJAMÍN IGNACIO</td>
+          <td>URZÚA</td>
+          <td>BURGOS</td>
+          <td>ESTAMBUL 2508 POBL. 18 DE SEPTIEMBRE</td>
+          <td>HUALPÉN</td>
+          <td>8112</td>
+          <td></td>
+          <td></td>
+          <td>53159511</td>
+          <td>2014-08-15</td>
+          <td>0</td>
+          <td>2021-04-12</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>2</td>
+          <td>2º Básico</td>
+          <td>A</td>
+          <td>24507602</td>
+          <td>9</td>
+          <td>F</td>
+          <td>FLORENCIA ESPERANZA</td>
+          <td>CASTILLO</td>
+          <td>SANDOVAL</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2014-01-13</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>2</td>
+          <td>2º Básico</td>
+          <td>A</td>
+          <td>24334310</td>
+          <td>0</td>
+          <td>M</td>
+          <td>ALFONSO OWEN</td>
+          <td>PACHECO</td>
+          <td>TRAUB</td>
+          <td>BERGANTIN ANCUD</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>95345422</td>
+          <td>2013-07-17</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>2</td>
+          <td>2º Básico</td>
+          <td>A</td>
+          <td>24349544</td>
+          <td>K</td>
+          <td>F</td>
+          <td>LISSETTE AMANDA</td>
+          <td>CAMPOS</td>
+          <td>VILLABLANCA</td>
+          <td></td>
+          <td>PENCO</td>
+          <td>8107</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2013-08-03</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>3</td>
+          <td>3º Básico</td>
+          <td>A</td>
+          <td>23940843</td>
+          <td>5</td>
+          <td>M</td>
+          <td>LUCAS GIOVANNI</td>
+          <td>BAEZA</td>
+          <td>LOBOS</td>
+          <td>PEREZ ROSALES</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>98057244</td>
+          <td>2012-05-06</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>3</td>
+          <td>3º Básico</td>
+          <td>A</td>
+          <td>23635141</td>
+          <td>6</td>
+          <td>M</td>
+          <td>OTTO ISMAEL</td>
+          <td>VILLEGAS</td>
+          <td>MENA</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2011-05-03</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>3</td>
+          <td>3º Básico</td>
+          <td>A</td>
+          <td>23943772</td>
+          <td>9</td>
+          <td>F</td>
+          <td>ANALI ISIDORA ALEXANDRA</td>
+          <td>CÓRDOVA</td>
+          <td>ROA</td>
+          <td>EDUARDO FREI</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>77469875</td>
+          <td>2012-05-07</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>3</td>
+          <td>3º Básico</td>
+          <td>A</td>
+          <td>24133706</td>
+          <td>5</td>
+          <td>M</td>
+          <td>MARTÍN IGNACIO</td>
+          <td>LÓPEZ</td>
+          <td>RAMÍREZ</td>
+          <td></td>
+          <td>PENCO</td>
+          <td>8107</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2012-12-04</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>3</td>
+          <td>3º Básico</td>
+          <td>A</td>
+          <td>23674225</td>
+          <td>3</td>
+          <td>F</td>
+          <td>CAMILA ALEJANDRA</td>
+          <td>MORALES</td>
+          <td>GONZÁLEZ</td>
+          <td>ALDEA SOS</td>
+          <td>BULNES</td>
+          <td>16102</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2011-06-20</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>4</td>
+          <td>4º Básico</td>
+          <td>A</td>
+          <td>23500555</td>
+          <td>7</td>
+          <td>M</td>
+          <td>JOSÉ IGNACIO</td>
+          <td>FORMAS</td>
+          <td>STUARDO</td>
+          <td>AVENIDA CAMPOS DEPORTIVOS BELLAVISTA 575</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>78641310</td>
+          <td>2010-12-15</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>4</td>
+          <td>4º Básico</td>
+          <td>A</td>
+          <td>23038160</td>
+          <td>7</td>
+          <td>F</td>
+          <td>FERNANDA MARTINA</td>
+          <td>PLAZA</td>
+          <td>ROBLES</td>
+          <td>GALVARINO 1081 CASA 1 CONCEPCIÓN</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>94404404</td>
+          <td>2009-06-09</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>4</td>
+          <td>4º Básico</td>
+          <td>A</td>
+          <td>23744579</td>
+          <td>1</td>
+          <td>M</td>
+          <td>GONZALO ALONSO</td>
+          <td>BAHAMONDES</td>
+          <td>MUÑOZ</td>
+          <td>CASTELLÓN 1370, EDIFICIO CASTELLÓN</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>82871545</td>
+          <td>2011-09-14</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>4</td>
+          <td>4º Básico</td>
+          <td>A</td>
+          <td>23605700</td>
+          <td>3</td>
+          <td>M</td>
+          <td>ANTONIO FRANCISCO</td>
+          <td>FUENTES</td>
+          <td>RUBIO</td>
+          <td>PASCUAL BINIMELIS</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td>3236327</td>
+          <td>97898223</td>
+          <td>2011-03-28</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>5</td>
+          <td>5º Básico</td>
+          <td>A</td>
+          <td>22820701</td>
+          <td>2</td>
+          <td>F</td>
+          <td>MONSERRAT LEONOR</td>
+          <td>ORTIZ</td>
+          <td>LEIVA</td>
+          <td>PJE ERCILLA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>98979832</td>
+          <td>2008-09-12</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>5</td>
+          <td>5º Básico</td>
+          <td>A</td>
+          <td>26807774</td>
+          <td>K</td>
+          <td>M</td>
+          <td>RAFAEL ANDRES</td>
+          <td>TINEO</td>
+          <td>ACEVEDO</td>
+          <td>SECTOR LOS LIRIOS CALLE DOMINGO VIMMELIS</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>949666186</td>
+          <td>95881585</td>
+          <td>2009-09-13</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>5</td>
+          <td>5º Básico</td>
+          <td>A</td>
+          <td>22754209</td>
+          <td>8</td>
+          <td>M</td>
+          <td>JOAO ANTONIO</td>
+          <td>CHANDÍA</td>
+          <td>REBOLLEDO</td>
+          <td>COLÓN 8436, DEPTO. 31</td>
+          <td>HUALPÉN</td>
+          <td>8112</td>
+          <td></td>
+          <td>3183293</td>
+          <td>79989651</td>
+          <td>2008-06-22</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>6</td>
+          <td>6º Básico</td>
+          <td>A</td>
+          <td>22961841</td>
+          <td>5</td>
+          <td>F</td>
+          <td>JAVIERA MILLARAY</td>
+          <td>GONZALEZ</td>
+          <td>GONZÁLEZ</td>
+          <td>PEDRO DEL RÍO Z. BLOCK 935 DEPTO 303</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>88136903</td>
+          <td>2009-03-04</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>6</td>
+          <td>6º Básico</td>
+          <td>A</td>
+          <td>23143910</td>
+          <td>2</td>
+          <td>M</td>
+          <td>TOMÁS MARTÍN</td>
+          <td>JARA</td>
+          <td>ALCORTA</td>
+          <td>ALMIRANTE RIVERO NORTE</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>2154083</td>
+          <td></td>
+          <td>2009-10-09</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>6</td>
+          <td>6º Básico</td>
+          <td>A</td>
+          <td>22425812</td>
+          <td>7</td>
+          <td>F</td>
+          <td>YAMILET ANDREA</td>
+          <td>SAN MARTIN</td>
+          <td>REDON</td>
+          <td>CORNETA CHACABUCO 473 PSJE 4</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>95100276</td>
+          <td>2007-06-19</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>6</td>
+          <td>6º Básico</td>
+          <td>A</td>
+          <td>22086421</td>
+          <td>9</td>
+          <td>M</td>
+          <td>BENJAMÍN ALEXIS</td>
+          <td>SIERRA</td>
+          <td>FOSTER</td>
+          <td>LOS CASTAÑOS 40 POBLACIÓN LAS DELICIAS</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td>2366454</td>
+          <td></td>
+          <td>2006-04-01</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>6</td>
+          <td>6º Básico</td>
+          <td>A</td>
+          <td>22667980</td>
+          <td>4</td>
+          <td>F</td>
+          <td>MARTINA AMARAL</td>
+          <td>PARADA</td>
+          <td>FUENTEALBA</td>
+          <td>SECTOR LA PAZ LOTE 2</td>
+          <td>ALTO BIOBÍO</td>
+          <td>8314</td>
+          <td></td>
+          <td>954690579</td>
+          <td></td>
+          <td>2007-07-19</td>
+          <td>7</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>7</td>
+          <td>7º Básico</td>
+          <td>A</td>
+          <td>22393325</td>
+          <td>4</td>
+          <td>M</td>
+          <td>JOAQUÍN ALEXANDER</td>
+          <td>MUÑOZ</td>
+          <td>MARTÍNEZ</td>
+          <td>30 DE OCTUBRE 895</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2007-05-07</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>7</td>
+          <td>7º Básico</td>
+          <td>A</td>
+          <td>22491958</td>
+          <td>1</td>
+          <td>M</td>
+          <td>JAVIER IGNACIO</td>
+          <td>MUÑOZ</td>
+          <td>MUÑOZ</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2007-08-23</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>7</td>
+          <td>7º Básico</td>
+          <td>A</td>
+          <td>22221603</td>
+          <td>6</td>
+          <td>M</td>
+          <td>CLAUDIO HERNÁN</td>
+          <td>OLIVA</td>
+          <td>MARTÍNEZ</td>
+          <td>TUCAPEL 811 RINCONADA 2</td>
+          <td>HUALQUI</td>
+          <td>8105</td>
+          <td></td>
+          <td></td>
+          <td>81955447</td>
+          <td>2006-10-02</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>7</td>
+          <td>7º Básico</td>
+          <td>A</td>
+          <td>22092333</td>
+          <td>9</td>
+          <td>M</td>
+          <td>MATIAS ABRAHAM</td>
+          <td>VARGAS</td>
+          <td>MUÑOZ</td>
+          <td></td>
+          <td>SAN PEDRO DE LA PAZ</td>
+          <td>8108</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2006-04-07</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>8</td>
+          <td>8º Básico</td>
+          <td>A</td>
+          <td>22203347</td>
+          <td>0</td>
+          <td>M</td>
+          <td>OSCAR GABRIEL ERNESTO</td>
+          <td>CÁCERES</td>
+          <td>HORMAZÁBAL</td>
+          <td>AV. COLON 2110, CASA 12. EL ALMENDRAL</td>
+          <td>VALPARAÍSO</td>
+          <td>5101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2006-09-06</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>8</td>
+          <td>8º Básico</td>
+          <td>A</td>
+          <td>22121646</td>
+          <td>6</td>
+          <td>F</td>
+          <td>DANA PAULA ALEJANDRA</td>
+          <td>ROJAS</td>
+          <td>SAN MARTÍN</td>
+          <td>PASAJE 10</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td>2351682</td>
+          <td>42006899</td>
+          <td>2006-05-15</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>8</td>
+          <td>8º Básico</td>
+          <td>A</td>
+          <td>21878646</td>
+          <td>4</td>
+          <td>F</td>
+          <td>JAVIERA IGNACIA</td>
+          <td>FUENTES</td>
+          <td>VALDERRAMA</td>
+          <td>CARABINERO PASAJE 5 CASA 658 CANDELARIA</td>
+          <td>SAN PEDRO DE LA PAZ</td>
+          <td>8108</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2005-07-06</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>25</td>
+          <td>Nivel de Transición 2</td>
+          <td>A</td>
+          <td>25113504</td>
+          <td>5</td>
+          <td>M</td>
+          <td>LUCAS SALVADOR</td>
+          <td>GONZÁLEZ</td>
+          <td>REYES</td>
+          <td></td>
+          <td>TALCAHUANO</td>
+          <td>8110</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-09-11</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>2021-03-29</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>25</td>
+          <td>Nivel de Transición 2</td>
+          <td>A</td>
+          <td>24718831</td>
+          <td>2</td>
+          <td>M</td>
+          <td>BENJAMÍN IGNACIO</td>
+          <td>URZÚA</td>
+          <td>BURGOS</td>
+          <td>ESTAMBUL 2508 POBL. 18 DE SEPTIEMBRE</td>
+          <td>HUALPÉN</td>
+          <td>8112</td>
+          <td></td>
+          <td></td>
+          <td>53159511</td>
+          <td>2014-08-15</td>
+          <td>0</td>
+          <td>2021-04-09</td>
+          <td>2021-04-12</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>A</td>
+          <td>21900999</td>
+          <td>2</td>
+          <td>M</td>
+          <td>CHRISTOPHER LUIS</td>
+          <td>SANTANDER</td>
+          <td>BELTRAN</td>
+          <td>BLANCO SUR</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>78515607</td>
+          <td>2005-08-03</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>A</td>
+          <td>21685286</td>
+          <td>9</td>
+          <td>F</td>
+          <td>SOFÍA ROSARIO</td>
+          <td>CASTILLO</td>
+          <td>HENRÍQUEZ</td>
+          <td>AMERICO VESPUCIO 407</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>2955116</td>
+          <td></td>
+          <td>2004-10-16</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>A</td>
+          <td>21602813</td>
+          <td>9</td>
+          <td>M</td>
+          <td>MATÍAS ALEJANDRO</td>
+          <td>CÁRDENAS</td>
+          <td>TAPIA</td>
+          <td>ONGOLMO 30 DEPTO 201</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2004-06-22</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>A</td>
+          <td>20739250</td>
+          <td>2</td>
+          <td>M</td>
+          <td>ESTEBAN ENRIQUE</td>
+          <td>ÁLVAREZ</td>
+          <td>BRITO</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2001-10-02</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>A</td>
+          <td>21388447</td>
+          <td>6</td>
+          <td>M</td>
+          <td>MARTÍN ALBERTO</td>
+          <td>ALARCÓN</td>
+          <td>CORREA</td>
+          <td>CAUPOLICAN</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>66921493</td>
+          <td>2003-09-18</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>A</td>
+          <td>21388992</td>
+          <td>3</td>
+          <td>M</td>
+          <td>RAÚL IGNACIO</td>
+          <td>CRISOSTO</td>
+          <td>MONTERO</td>
+          <td></td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2003-09-14</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>A</td>
+          <td>21466360</td>
+          <td>0</td>
+          <td>F</td>
+          <td>PAULINA ANDREA</td>
+          <td>SALAZAR</td>
+          <td>SALAZAR</td>
+          <td>MAITENCILLO 337 POBLACION COSTA PACIFICO</td>
+          <td>SAN PEDRO DE LA PAZ</td>
+          <td>8108</td>
+          <td></td>
+          <td></td>
+          <td>64417115</td>
+          <td>2003-12-16</td>
+          <td>0</td>
+          <td>2021-07-05</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>A</td>
+          <td>21713184</td>
+          <td>7</td>
+          <td>M</td>
+          <td>RICARDO YHONI</td>
+          <td>CABRERA</td>
+          <td>CORNEJO</td>
+          <td>CALLE AVIACIÓN, POBLACIÓN DIEGO PORTALES</td>
+          <td>TALCAHUANO</td>
+          <td>8110</td>
+          <td></td>
+          <td>2178235</td>
+          <td></td>
+          <td>2004-11-19</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>B</td>
+          <td>21916267</td>
+          <td>7</td>
+          <td>M</td>
+          <td>FRANCISCO ANDRÉS</td>
+          <td>HIDALGO</td>
+          <td>MÉNDEZ</td>
+          <td>BLANCO</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>2332219</td>
+          <td>75879490</td>
+          <td>2005-08-24</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>B</td>
+          <td>21564008</td>
+          <td>6</td>
+          <td>M</td>
+          <td>DAVID ALEJANDRO</td>
+          <td>BRIONES</td>
+          <td>VALENZUELA</td>
+          <td>12 DE OCTUBRE</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>63077298</td>
+          <td>2004-04-30</td>
+          <td>7</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>B</td>
+          <td>21385509</td>
+          <td>3</td>
+          <td>M</td>
+          <td>ANGEL DANILO</td>
+          <td>ESTRADA</td>
+          <td>PÉREZ</td>
+          <td>VILLA PRODUCCION Y COMERCIO PJ.2 CASA Nº 5241</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>98766078</td>
+          <td>2003-09-06</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>B</td>
+          <td>21454592</td>
+          <td>6</td>
+          <td>F</td>
+          <td>JACLIN ANDREA</td>
+          <td>SAN MARTÍN</td>
+          <td>LEIVA</td>
+          <td>CALLE 5 BLOCK</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td>412357748</td>
+          <td></td>
+          <td>2003-11-14</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>B</td>
+          <td>21514074</td>
+          <td>1</td>
+          <td>M</td>
+          <td>TOMÁS VICENTE</td>
+          <td>SÁNCHEZ</td>
+          <td>RIVERA</td>
+          <td>AVENIDA BOSQUE MAR 200 CASA 8 PORTAL SAN PEDRO</td>
+          <td>HUALQUI</td>
+          <td>8105</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2004-02-23</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>B</td>
+          <td>21074896</td>
+          <td>2</td>
+          <td>F</td>
+          <td>SOFÍA JAVIERA</td>
+          <td>CARRASCO</td>
+          <td>PAVÓN</td>
+          <td>ROBERTO OVALLE</td>
+          <td>PENCO</td>
+          <td>8107</td>
+          <td></td>
+          <td></td>
+          <td>90780589</td>
+          <td>2002-07-24</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>B</td>
+          <td>21431979</td>
+          <td>9</td>
+          <td>F</td>
+          <td>MONSERRAT NOEMI</td>
+          <td>ANABALÓN</td>
+          <td>VALENZUELA</td>
+          <td>VASCO NUÑEZ DE BALBOA 6644 BRISAS DE SOL</td>
+          <td>TALCAHUANO</td>
+          <td>8110</td>
+          <td></td>
+          <td>2957150</td>
+          <td>84060852</td>
+          <td>2003-10-29</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>B</td>
+          <td>22013142</td>
+          <td>4</td>
+          <td>M</td>
+          <td>MAURICIO ALEJANDRO</td>
+          <td>GODOY</td>
+          <td>OPAZO</td>
+          <td>PURRANQUE LAN B</td>
+          <td>HUALPÉN</td>
+          <td>8112</td>
+          <td>SIMONBOLIVAR467@GMAIL.COM</td>
+          <td>2417438</td>
+          <td>74488707</td>
+          <td>2006-01-03</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>C</td>
+          <td>21023301</td>
+          <td>6</td>
+          <td>M</td>
+          <td>MANUEL ENRIQUE</td>
+          <td>CANO</td>
+          <td>ESPINOZA</td>
+          <td>MIRAFLORES</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>82099475</td>
+          <td>2002-05-22</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>C</td>
+          <td>21094031</td>
+          <td>6</td>
+          <td>M</td>
+          <td>BRAYAN ABEL</td>
+          <td>ARRIAGADA</td>
+          <td>ROMÁN</td>
+          <td>LASTARRIAS</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>86075835</td>
+          <td>2002-08-22</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>C</td>
+          <td>21881345</td>
+          <td>3</td>
+          <td>M</td>
+          <td>ALEJANDRO ALONSO</td>
+          <td>BUSTOS</td>
+          <td>ADRIAZOLA</td>
+          <td>PASAJE BLANCO 36. PEDRO DE VALDIVIA BAJO</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>94839575</td>
+          <td>2005-07-06</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>C</td>
+          <td>21602813</td>
+          <td>9</td>
+          <td>M</td>
+          <td>MATÍAS ALEJANDRO</td>
+          <td>CÁRDENAS</td>
+          <td>TAPIA</td>
+          <td>ONGOLMO 30 DEPTO 201</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2004-06-22</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>C</td>
+          <td>22107483</td>
+          <td>1</td>
+          <td>F</td>
+          <td>ANETTE KARINA FRANCISCA</td>
+          <td>CARI</td>
+          <td>CID</td>
+          <td>ANIBAL PINTO LAGUNA REDONDA 2</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td>KARINACID01@GMAIL.COM</td>
+          <td></td>
+          <td></td>
+          <td>2006-04-29</td>
+          <td>0</td>
+          <td>2021-06-04</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>C</td>
+          <td>21239378</td>
+          <td>9</td>
+          <td>F</td>
+          <td>MARITZA ALEJANDRA</td>
+          <td>ARÉVALO</td>
+          <td>GATICA</td>
+          <td>MANUEL RODRIGUEZ</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>82178609</td>
+          <td>2003-01-31</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>C</td>
+          <td>21785251</td>
+          <td>K</td>
+          <td>F</td>
+          <td>BRISOLET MAURA</td>
+          <td>MUÑOZ</td>
+          <td>OÑATE</td>
+          <td>LA LIGUA 665 DIEGO PORTALES</td>
+          <td>TALCAHUANO</td>
+          <td>8110</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2003-05-11</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>C</td>
+          <td>21660032</td>
+          <td>0</td>
+          <td>M</td>
+          <td>VÍCTOR MAURICIO NICOLÁS</td>
+          <td>CISTERNAS</td>
+          <td>MUÑOZ</td>
+          <td>CALLE 4 CASA 552 LA FLORSTA</td>
+          <td>TALCAHUANO</td>
+          <td>8110</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2004-09-10</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>31</td>
+          <td>Laboral 1</td>
+          <td>C</td>
+          <td>21295047</td>
+          <td>5</td>
+          <td>F</td>
+          <td>AGUSTINA NOEL</td>
+          <td>MONTOLIVO</td>
+          <td>PAILLALEO</td>
+          <td>VICTOR SARBARO 89</td>
+          <td>YUMBEL</td>
+          <td>8313</td>
+          <td></td>
+          <td>969814992</td>
+          <td></td>
+          <td>2003-05-13</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>A</td>
+          <td>20516887</td>
+          <td>7</td>
+          <td>M</td>
+          <td>MARIO RICARDO</td>
+          <td>CRUCES</td>
+          <td>POBLETE</td>
+          <td>MANZANAR 745 ISLA ANDALIEN</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>378774</td>
+          <td></td>
+          <td>2000-12-29</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>A</td>
+          <td>20516758</td>
+          <td>7</td>
+          <td>M</td>
+          <td>IGNACIO JAVIER</td>
+          <td>MUÑOZ</td>
+          <td>FIGUEROA</td>
+          <td>GABRIELA MISTRAL</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>56901571</td>
+          <td>2001-01-10</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>A</td>
+          <td>20946388</td>
+          <td>1</td>
+          <td>M</td>
+          <td>JAVIER ALEJANDRO</td>
+          <td>NORÍN</td>
+          <td>ANTIL</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2002-01-02</td>
+          <td>7</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>A</td>
+          <td>20257491</td>
+          <td>2</td>
+          <td>M</td>
+          <td>PABLO BENJAMÍN</td>
+          <td>SALAMANCA</td>
+          <td>DÍAZ</td>
+          <td>PASAJE 1 CASA 104 VILLA LOS QUEULES</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>9310310</td>
+          <td>1999-12-01</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>A</td>
+          <td>20994587</td>
+          <td>8</td>
+          <td>M</td>
+          <td>JAVIER ALONSO</td>
+          <td>MEDINA</td>
+          <td>SANHUEZA</td>
+          <td>CAMINO A CABRERO KM 23 POB. CHAIMAVIDA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>0</td>
+          <td>78836696</td>
+          <td>2002-03-31</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>A</td>
+          <td>20116096</td>
+          <td>0</td>
+          <td>M</td>
+          <td>MATÍAS PATRICIO</td>
+          <td>CÁRDENAS</td>
+          <td>CORREA</td>
+          <td>AINAVILLO</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td>2977923</td>
+          <td>53354463</td>
+          <td>1999-03-21</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>A</td>
+          <td>19907835</td>
+          <td>6</td>
+          <td>F</td>
+          <td>CONSTANZA MICHELLE ALEXA</td>
+          <td>PAREDES</td>
+          <td>CORDOVA</td>
+          <td>CALLE ANGAMOS</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>75134728</td>
+          <td>1998-05-08</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>A</td>
+          <td>21385509</td>
+          <td>3</td>
+          <td>M</td>
+          <td>ANGEL DANILO</td>
+          <td>ESTRADA</td>
+          <td>PÉREZ</td>
+          <td>VILLA PRODUCCION Y COMERCIO PJ.2 CASA Nº 5241</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>98766078</td>
+          <td>2003-09-06</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>A</td>
+          <td>21388992</td>
+          <td>3</td>
+          <td>M</td>
+          <td>RAÚL IGNACIO</td>
+          <td>CRISOSTO</td>
+          <td>MONTERO</td>
+          <td></td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2003-09-14</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>A</td>
+          <td>21232957</td>
+          <td>6</td>
+          <td>F</td>
+          <td>ARELY CONSTANZA</td>
+          <td>FUENTES</td>
+          <td>OLIVARES</td>
+          <td>CAUPOLICAN POBLACIÓN RUCALHUE</td>
+          <td>HUALQUI</td>
+          <td>8105</td>
+          <td></td>
+          <td></td>
+          <td>97910243</td>
+          <td>2003-02-07</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>A</td>
+          <td>21074896</td>
+          <td>2</td>
+          <td>F</td>
+          <td>SOFÍA JAVIERA</td>
+          <td>CARRASCO</td>
+          <td>PAVÓN</td>
+          <td>ROBERTO OVALLE</td>
+          <td>PENCO</td>
+          <td>8107</td>
+          <td></td>
+          <td></td>
+          <td>90780589</td>
+          <td>2002-07-24</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>B</td>
+          <td>19090333</td>
+          <td>8</td>
+          <td>F</td>
+          <td>VALENTINA ROCÍO</td>
+          <td>ASTETE</td>
+          <td>MOLINA</td>
+          <td>MIRAFLORES</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>67208909</td>
+          <td>1995-08-31</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>B</td>
+          <td>20731088</td>
+          <td>3</td>
+          <td>M</td>
+          <td>SEBASTIÁN ROLANDO</td>
+          <td>CUITIÑO</td>
+          <td>LAMA</td>
+          <td>MIRAFLORES</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>96261072</td>
+          <td>2001-04-15</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>B</td>
+          <td>19906784</td>
+          <td>2</td>
+          <td>F</td>
+          <td>PAMELA ALEJANDRA</td>
+          <td>GÓMEZ</td>
+          <td>ENCINA</td>
+          <td>CALLE 2 3036 JUAN PABLO II LZO ARENAS</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>89661858</td>
+          <td>1998-03-05</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>B</td>
+          <td>19815412</td>
+          <td>1</td>
+          <td>F</td>
+          <td>CAMILA PAZ</td>
+          <td>MONTT</td>
+          <td>BUSTOS</td>
+          <td>PEDRO DEL RÍO LASTARRIA 1142</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>2257331</td>
+          <td></td>
+          <td>1998-03-29</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>B</td>
+          <td>21094031</td>
+          <td>6</td>
+          <td>M</td>
+          <td>BRAYAN ABEL</td>
+          <td>ARRIAGADA</td>
+          <td>ROMÁN</td>
+          <td>LASTARRIAS</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>86075835</td>
+          <td>2002-08-22</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>B</td>
+          <td>21023301</td>
+          <td>6</td>
+          <td>M</td>
+          <td>MANUEL ENRIQUE</td>
+          <td>CANO</td>
+          <td>ESPINOZA</td>
+          <td>MIRAFLORES</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>82099475</td>
+          <td>2002-05-22</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>B</td>
+          <td>20738598</td>
+          <td>0</td>
+          <td>F</td>
+          <td>JOSEFA VALENTINA BEATRIZ</td>
+          <td>PÉREZ</td>
+          <td>ARENAS</td>
+          <td>LOS CASTAÑOS</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>57484295</td>
+          <td>2001-07-25</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>B</td>
+          <td>21452070</td>
+          <td>2</td>
+          <td>F</td>
+          <td>CONSTANZA ANTONIA</td>
+          <td>CARRASCO</td>
+          <td>PÉREZ</td>
+          <td>OTAWA 880 V. MONTREAL</td>
+          <td>LOS ÁNGELES</td>
+          <td>8301</td>
+          <td></td>
+          <td></td>
+          <td>71067591</td>
+          <td>2003-11-13</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>C</td>
+          <td>20514217</td>
+          <td>7</td>
+          <td>F</td>
+          <td>ESTEFANÍA DENISE</td>
+          <td>DAZA</td>
+          <td>FIERRO</td>
+          <td>ESMERALDA SUR</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>84859543</td>
+          <td>2000-05-27</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>C</td>
+          <td>20020958</td>
+          <td>3</td>
+          <td>F</td>
+          <td>VALENTINA PAULETTE</td>
+          <td>PEZO</td>
+          <td>PALAVECINO</td>
+          <td>CAMINO DEL AMANECER</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>94453390</td>
+          <td>1998-12-14</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>C</td>
+          <td>21023419</td>
+          <td>5</td>
+          <td>F</td>
+          <td>JOSELINNE ALEJANDRA</td>
+          <td>SANTIBÁÑEZ</td>
+          <td>SÁNCHEZ</td>
+          <td>VICUÑA MACKENNA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>62348720</td>
+          <td>2002-05-21</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>C</td>
+          <td>20516485</td>
+          <td>5</td>
+          <td>M</td>
+          <td>SEBASTIÁN ALEJANDRO</td>
+          <td>SEPÚLVEDA</td>
+          <td>VALLEJOS</td>
+          <td>PASAJE ESTER ROA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>413220674</td>
+          <td>97907843</td>
+          <td>2000-12-14</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>C</td>
+          <td>20516112</td>
+          <td>0</td>
+          <td>M</td>
+          <td>BENJAMÍN IGNACIO</td>
+          <td>RISCO</td>
+          <td>PAREJA</td>
+          <td>GABRIELA MISTRAL</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>53690020</td>
+          <td>2000-10-31</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>C</td>
+          <td>21239378</td>
+          <td>9</td>
+          <td>F</td>
+          <td>MARITZA ALEJANDRA</td>
+          <td>ARÉVALO</td>
+          <td>GATICA</td>
+          <td>MANUEL RODRIGUEZ</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>82178609</td>
+          <td>2003-01-31</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>2021-08-16</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>C</td>
+          <td>21454592</td>
+          <td>6</td>
+          <td>F</td>
+          <td>JACLIN ANDREA</td>
+          <td>SAN MARTÍN</td>
+          <td>LEIVA</td>
+          <td>CALLE 5 BLOCK</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td>412357748</td>
+          <td></td>
+          <td>2003-11-14</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>32</td>
+          <td>Laboral 2</td>
+          <td>C</td>
+          <td>21785251</td>
+          <td>K</td>
+          <td>F</td>
+          <td>BRISOLET MAURA</td>
+          <td>MUÑOZ</td>
+          <td>OÑATE</td>
+          <td>LA LIGUA 665 DIEGO PORTALES</td>
+          <td>TALCAHUANO</td>
+          <td>8110</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2003-05-11</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>A</td>
+          <td>19406133</td>
+          <td>1</td>
+          <td>M</td>
+          <td>ANDRÉS ARMANDO</td>
+          <td>ARIAS</td>
+          <td>VILLAGRÁN</td>
+          <td>LAS HERAS 1937</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>2934940</td>
+          <td></td>
+          <td>1996-01-31</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>A</td>
+          <td>20195885</td>
+          <td>7</td>
+          <td>F</td>
+          <td>EYLING ADRIANA</td>
+          <td>MUÑOZ</td>
+          <td>ARANEDA</td>
+          <td>EL CARMEN</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>2242930</td>
+          <td>82278998</td>
+          <td>1999-10-15</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>A</td>
+          <td>20514900</td>
+          <td>7</td>
+          <td>M</td>
+          <td>GIOVANNI RODOLFO MALAQUÍAS</td>
+          <td>VILLASEÑOR</td>
+          <td>GONZÁLEZ</td>
+          <td>DOMINGO SANTA MARIA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>85835837</td>
+          <td>2000-07-31</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>A</td>
+          <td>19906784</td>
+          <td>2</td>
+          <td>F</td>
+          <td>PAMELA ALEJANDRA</td>
+          <td>GÓMEZ</td>
+          <td>ENCINA</td>
+          <td>CALLE 2 3036 JUAN PABLO II LZO ARENAS</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>89661858</td>
+          <td>1998-03-05</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>A</td>
+          <td>19090333</td>
+          <td>8</td>
+          <td>F</td>
+          <td>VALENTINA ROCÍO</td>
+          <td>ASTETE</td>
+          <td>MOLINA</td>
+          <td>MIRAFLORES</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>67208909</td>
+          <td>1995-08-31</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>A</td>
+          <td>20257716</td>
+          <td>4</td>
+          <td>M</td>
+          <td>NICOLÁS IGNACIO</td>
+          <td>ESPINOZA</td>
+          <td>CONTRERAS</td>
+          <td></td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1999-12-07</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>A</td>
+          <td>19123200</td>
+          <td>3</td>
+          <td>M</td>
+          <td>ARIEL ALONSO</td>
+          <td>SOTO</td>
+          <td>FONSECA</td>
+          <td>PORVENIR</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>67758005</td>
+          <td>1996-06-04</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>A</td>
+          <td>18747074</td>
+          <td>9</td>
+          <td>F</td>
+          <td>BRENDA ALEJANDRA</td>
+          <td>GONZÁLEZ</td>
+          <td>LLANQUILEO</td>
+          <td>PATRICIO LYNCH</td>
+          <td>HUALQUI</td>
+          <td>8105</td>
+          <td></td>
+          <td></td>
+          <td>75271687</td>
+          <td>1996-01-09</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>B</td>
+          <td>19088044</td>
+          <td>3</td>
+          <td>F</td>
+          <td>CLAUDIA ELIZABETH</td>
+          <td>FLORES</td>
+          <td>MITCHELL</td>
+          <td>BALMACEDA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>59785981</td>
+          <td>1995-04-19</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>B</td>
+          <td>20994587</td>
+          <td>8</td>
+          <td>M</td>
+          <td>JAVIER ALONSO</td>
+          <td>MEDINA</td>
+          <td>SANHUEZA</td>
+          <td>CAMINO A CABRERO KM 23 POB. CHAIMAVIDA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>0</td>
+          <td>78836696</td>
+          <td>2002-03-31</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-18</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>B</td>
+          <td>19596082</td>
+          <td>8</td>
+          <td>M</td>
+          <td>NICOLÁS ANDRÉS</td>
+          <td>VERA</td>
+          <td>FIGUEROA</td>
+          <td>Parque residencial collao 76 calle Paula Pineda</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1997-01-27</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>B</td>
+          <td>20257491</td>
+          <td>2</td>
+          <td>M</td>
+          <td>PABLO BENJAMÍN</td>
+          <td>SALAMANCA</td>
+          <td>DÍAZ</td>
+          <td>PASAJE 1 CASA 104 VILLA LOS QUEULES</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>9310310</td>
+          <td>1999-12-01</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>B</td>
+          <td>20516887</td>
+          <td>7</td>
+          <td>M</td>
+          <td>MARIO RICARDO</td>
+          <td>CRUCES</td>
+          <td>POBLETE</td>
+          <td>MANZANAR 745 ISLA ANDALIEN</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>378774</td>
+          <td></td>
+          <td>2000-12-29</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>B</td>
+          <td>19615243</td>
+          <td>1</td>
+          <td>M</td>
+          <td>BRANDON NICOLÁS</td>
+          <td>AGUAYO</td>
+          <td>VIDAL</td>
+          <td>PASAJE 6</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>95829605</td>
+          <td>1999-02-03</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>B</td>
+          <td>19512320</td>
+          <td>9</td>
+          <td>M</td>
+          <td>MAXIMILIANO MATÍAS</td>
+          <td>CORVALÁN</td>
+          <td>HERMOSILLA</td>
+          <td>CALLE 1 BLOCK</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>97167951</td>
+          <td>1997-11-10</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>B</td>
+          <td>19425836</td>
+          <td>4</td>
+          <td>M</td>
+          <td>MIGUEL ANTONIO</td>
+          <td>FRITZ</td>
+          <td>CONSTANZO</td>
+          <td>CALLE VERGATIN METEORO</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1996-07-01</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>B</td>
+          <td>19907835</td>
+          <td>6</td>
+          <td>F</td>
+          <td>CONSTANZA MICHELLE ALEXA</td>
+          <td>PAREDES</td>
+          <td>CORDOVA</td>
+          <td>CALLE ANGAMOS</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>75134728</td>
+          <td>1998-05-08</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>C</td>
+          <td>19811915</td>
+          <td>6</td>
+          <td>M</td>
+          <td>VÍCTOR ALEJANDRO</td>
+          <td>GARCÍA</td>
+          <td>SALGADO</td>
+          <td>LOS NOGALES 45 PALOMARES.</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>2329370</td>
+          <td></td>
+          <td>1997-08-26</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>C</td>
+          <td>19815412</td>
+          <td>1</td>
+          <td>F</td>
+          <td>CAMILA PAZ</td>
+          <td>MONTT</td>
+          <td>BUSTOS</td>
+          <td>PEDRO DEL RÍO LASTARRIA 1142</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>2257331</td>
+          <td></td>
+          <td>1998-03-29</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>C</td>
+          <td>20516485</td>
+          <td>5</td>
+          <td>M</td>
+          <td>SEBASTIÁN ALEJANDRO</td>
+          <td>SEPÚLVEDA</td>
+          <td>VALLEJOS</td>
+          <td>PASAJE ESTER ROA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>413220674</td>
+          <td>97907843</td>
+          <td>2000-12-14</td>
+          <td>0</td>
+          <td>2021-03-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>C</td>
+          <td>20020346</td>
+          <td>1</td>
+          <td>F</td>
+          <td>ANGÉLICA BELÉN</td>
+          <td>CONTRERAS</td>
+          <td>CANTO</td>
+          <td></td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1998-10-29</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>C</td>
+          <td>19530707</td>
+          <td>5</td>
+          <td>F</td>
+          <td>CAROLINA IGNACIA</td>
+          <td>HUENCHUL</td>
+          <td>CARVAJAL</td>
+          <td>PASAJE 2 BLOCK</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td>75835272</td>
+          <td>1996-10-11</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>C</td>
+          <td>19090354</td>
+          <td>0</td>
+          <td>M</td>
+          <td>ANÍBAL ANDRÉS</td>
+          <td>TORRES</td>
+          <td>CANDIA</td>
+          <td>PASAJE 16 Nº 563</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1995-09-21</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>C</td>
+          <td>19331470</td>
+          <td>8</td>
+          <td>F</td>
+          <td>LISETTE ARACELY</td>
+          <td>CANTIN</td>
+          <td>MUÑOZ</td>
+          <td>EL GOMERO 4043. VILLA SAN MARTIN</td>
+          <td>TALCAHUANO</td>
+          <td>8110</td>
+          <td></td>
+          <td></td>
+          <td>81430306</td>
+          <td>1996-01-16</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>D</td>
+          <td>16141155</td>
+          <td>8</td>
+          <td>M</td>
+          <td>JAVIER MAURICIO</td>
+          <td>RODRÍGUEZ</td>
+          <td>ARIAS</td>
+          <td>BALMACEDA 131 P.DE VALDIVIA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1986-07-22</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-04-22</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>D</td>
+          <td>18110854</td>
+          <td>1</td>
+          <td>F</td>
+          <td>JEXIE ROXANA EMELINA</td>
+          <td>MARDONES</td>
+          <td>OLIVARES</td>
+          <td>SAN MARTIN</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1992-08-23</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-04-22</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>D</td>
+          <td>16516411</td>
+          <td>3</td>
+          <td>M</td>
+          <td>ROLANDO ANDRÉS</td>
+          <td>PALMA</td>
+          <td>CARVAJAL</td>
+          <td>VALLE LA PIEDRA 1 CASA 7 2</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td>2355846</td>
+          <td></td>
+          <td>1987-11-17</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-04-22</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>D</td>
+          <td>18145036</td>
+          <td>3</td>
+          <td>F</td>
+          <td>CAROLINA ANDREA</td>
+          <td>RIQUELME</td>
+          <td>VALLEJOS</td>
+          <td>INGLATERRA</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td>442876023</td>
+          <td>44806584</td>
+          <td>1992-07-07</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-04-22</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>D</td>
+          <td>18412823</td>
+          <td>3</td>
+          <td>M</td>
+          <td>BENJAMÍN ANTONIO</td>
+          <td>PINEDA</td>
+          <td>MEYER</td>
+          <td>AVDA ANDALUE 1050 DEPTO 103-A</td>
+          <td>SAN PEDRO DE LA PAZ</td>
+          <td>8108</td>
+          <td></td>
+          <td></td>
+          <td>45027771</td>
+          <td>1992-09-15</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-04-22</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>D</td>
+          <td>18363082</td>
+          <td>2</td>
+          <td>F</td>
+          <td>JENNY DANISSA</td>
+          <td>RODRÍGUEZ</td>
+          <td>FLORES</td>
+          <td>MORAVIA 1964 IRENE FREI</td>
+          <td>HUALPÉN</td>
+          <td>8112</td>
+          <td></td>
+          <td>2412610</td>
+          <td></td>
+          <td>1992-12-03</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-04-22</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>D</td>
+          <td>18070592</td>
+          <td>9</td>
+          <td>M</td>
+          <td>DIEGO IGOR</td>
+          <td>TRONCOSO</td>
+          <td>RAMÍREZ</td>
+          <td>BULGARIA</td>
+          <td>HUALPÉN</td>
+          <td>8112</td>
+          <td></td>
+          <td></td>
+          <td>77279067</td>
+          <td>1992-12-01</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-04-22</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4543</td>
+          <td>212</td>
+          <td>33</td>
+          <td>Laboral 3</td>
+          <td>D</td>
+          <td>13106629</td>
+          <td>5</td>
+          <td>M</td>
+          <td>ALEJANDRO ANDRÉS</td>
+          <td>UMAÑA</td>
+          <td>ROSALES</td>
+          <td>COIHUECO</td>
+          <td>HUALPÉN</td>
+          <td>8112</td>
+          <td></td>
+          <td>227100505</td>
+          <td>99950148</td>
+          <td>1976-07-08</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-04-22</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+      </tbody>
+    </table>
+    <br />
+  </body>
+</html>

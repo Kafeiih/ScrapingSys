@@ -1,0 +1,518 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>.:SIGE:. Ministerio de Educación</title>
+    <meta content="text/html;charset=iso-8859-1" http-equiv="Cache-Control" />
+    <meta content="no-cache" http-equiv="Pragma" />
+    <meta content="-1" http-equiv="Expires" />
+    <meta content="Mineduc - Informatica" name="Author" />
+    <link type="image/ico" href="https://staticv2.mineduc.cl/img/favicon.ico" rel="icon" />
+    <link type="../image/ico" href="favicon.ico" rel="icon" />
+  </head>
+  <body>
+    <br />
+    <br />
+    <table width="100%">
+      <thead>
+        <tr>
+          <th scope="col">Año</th>
+          <th scope="col">RBD</th>
+          <th scope="col">Cod Tipo Enseñanza</th>
+          <th scope="col">Cod Grado</th>
+          <th scope="col">Desc Grado</th>
+          <th scope="col">Letra Curso</th>
+          <th scope="col">Run</th>
+          <th scope="col">Dígito Ver.</th>
+          <th scope="col">Genero</th>
+          <th scope="col">Nombres</th>
+          <th scope="col">Apellido Paterno</th>
+          <th scope="col">Apellido Materno</th>
+          <th scope="col">Dirección</th>
+          <th scope="col">Comuna Residencia</th>
+          <th scope="col">Código Comuna Residencia</th>
+          <th scope="col">Email</th>
+          <th scope="col">Telefono</th>
+          <th scope="col">Celular</th>
+          <th scope="col">Fecha Nacimiento</th>
+          <th scope="col">Código Etnia</th>
+          <th scope="col">Fecha Incorporación Curso</th>
+          <th scope="col">Fecha Retiro</th>
+          <th scope="col">%Asistenca</th>
+          <th scope="col">Promedio Final</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>1</td>
+          <td>Nivel Básico 1(1° a 4° básico)</td>
+          <td>A</td>
+          <td>13506640</td>
+          <td>0</td>
+          <td>F</td>
+          <td>SUSANA DEL CARMEN</td>
+          <td>LÓPEZ</td>
+          <td>GODOY</td>
+          <td>CAMINO APENCO N°450</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1978-01-30</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>1</td>
+          <td>Nivel Básico 1(1° a 4° básico)</td>
+          <td>A</td>
+          <td>10843121</td>
+          <td>0</td>
+          <td>F</td>
+          <td>INGRID JEANNETTE</td>
+          <td>ZURITA</td>
+          <td>PRADENAS</td>
+          <td>PASAJE CALLE CALLE Nº74 NONGUEN</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1968-02-03</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>2</td>
+          <td>Nivel Básico 2(5° y 6° básico)</td>
+          <td>A</td>
+          <td>19508884</td>
+          <td>5</td>
+          <td>F</td>
+          <td>SOFÍA NICOLE</td>
+          <td>MELLADO</td>
+          <td>GÁLVEZ</td>
+          <td>CAMINO APENCO 450</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1996-09-03</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-30</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>2</td>
+          <td>Nivel Básico 2(5° y 6° básico)</td>
+          <td>A</td>
+          <td>17574688</td>
+          <td>9</td>
+          <td>F</td>
+          <td>JOSELYN ANDREA</td>
+          <td>VALENZUELA</td>
+          <td>SANHUEZA</td>
+          <td>CAMINO APENCO N°450</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1990-12-19</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-19</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>2</td>
+          <td>Nivel Básico 2(5° y 6° básico)</td>
+          <td>A</td>
+          <td>16137215</td>
+          <td>3</td>
+          <td>F</td>
+          <td>CINTHIA MABEL</td>
+          <td>GODOY</td>
+          <td>GODOY</td>
+          <td>POB. VILLA ESPERANZA PSJE.4 CASA2128</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>87586235</td>
+          <td>1985-04-19</td>
+          <td>0</td>
+          <td>2021-03-19</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>2</td>
+          <td>Nivel Básico 2(5° y 6° básico)</td>
+          <td>A</td>
+          <td>16505634</td>
+          <td>5</td>
+          <td>F</td>
+          <td>FABIOLA ANDREA</td>
+          <td>RETAMAL</td>
+          <td>SEGUEL</td>
+          <td>CAMINO A PENCO 450</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1987-03-26</td>
+          <td>0</td>
+          <td>2021-03-31</td>
+          <td>2021-04-13</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>2</td>
+          <td>Nivel Básico 2(5° y 6° básico)</td>
+          <td>A</td>
+          <td>11775707</td>
+          <td>2</td>
+          <td>F</td>
+          <td>CLAUDIA ANDREA</td>
+          <td>AMBIADO</td>
+          <td>VERGARA</td>
+          <td>CAMINO APENCO 450</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1971-07-01</td>
+          <td>0</td>
+          <td>2021-05-03</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>2</td>
+          <td>Nivel Básico 2(5° y 6° básico)</td>
+          <td>A</td>
+          <td>15189050</td>
+          <td>4</td>
+          <td>F</td>
+          <td>TERESA SOLANGE</td>
+          <td>CASTILLO</td>
+          <td>MORA</td>
+          <td>CRUZ MORA 112 NUEVA AMANECER</td>
+          <td>CORONEL</td>
+          <td>8102</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1982-08-12</td>
+          <td>0</td>
+          <td>2021-04-13</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>2</td>
+          <td>Nivel Básico 2(5° y 6° básico)</td>
+          <td>A</td>
+          <td>18109832</td>
+          <td>5</td>
+          <td>F</td>
+          <td>CAMILA FERNANDA</td>
+          <td>PALMA</td>
+          <td>MUÑOZ</td>
+          <td></td>
+          <td>SAN PEDRO DE LA PAZ</td>
+          <td>8108</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1992-07-16</td>
+          <td>0</td>
+          <td>2021-03-30</td>
+          <td>2021-08-17</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>2</td>
+          <td>Nivel Básico 2(5° y 6° básico)</td>
+          <td>A</td>
+          <td>9554614</td>
+          <td>5</td>
+          <td>F</td>
+          <td>IRMA DEL CARMEN</td>
+          <td>GONZÁLEZ</td>
+          <td>DURÁN</td>
+          <td>PASAJE 1 Nº2889 POBLACION 18 DE SEPTIEMBRE</td>
+          <td>HUALPÉN</td>
+          <td>8112</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1962-06-15</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-15</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>2</td>
+          <td>Nivel Básico 2(5° y 6° básico)</td>
+          <td>A</td>
+          <td>19293612</td>
+          <td>8</td>
+          <td>F</td>
+          <td>YARICSA NORMA</td>
+          <td>MUÑOZ</td>
+          <td>MONTECINO</td>
+          <td>LOS QUITUS 1738</td>
+          <td>LOS ÁNGELES</td>
+          <td>8301</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1996-10-25</td>
+          <td>0</td>
+          <td>2021-03-10</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>3</td>
+          <td>Nivel Básico 3(7° y 8° básico)</td>
+          <td>A</td>
+          <td>18613665</td>
+          <td>9</td>
+          <td>F</td>
+          <td>INGRID ANDREA</td>
+          <td>ALVIAL</td>
+          <td>AGUAYO</td>
+          <td>CAMINO A PENCO 450</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1994-01-27</td>
+          <td>0</td>
+          <td>2021-08-04</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>3</td>
+          <td>Nivel Básico 3(7° y 8° básico)</td>
+          <td>A</td>
+          <td>19907519</td>
+          <td>5</td>
+          <td>F</td>
+          <td>FRANCISCA ALEJANDRA</td>
+          <td>SILVA</td>
+          <td>QUINTANA</td>
+          <td>CAMINO APENCO 450</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1996-05-28</td>
+          <td>0</td>
+          <td>2021-08-16</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>3</td>
+          <td>Nivel Básico 3(7° y 8° básico)</td>
+          <td>A</td>
+          <td>20517072</td>
+          <td>3</td>
+          <td>F</td>
+          <td>BRITANNY IRACEMA VICTORIA</td>
+          <td>ROJAS</td>
+          <td>VALDEBENITO</td>
+          <td></td>
+          <td>SAN PEDRO DE LA PAZ</td>
+          <td>8108</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2001-02-17</td>
+          <td>0</td>
+          <td>2021-08-03</td>
+          <td>2021-08-11</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>3</td>
+          <td>Nivel Básico 3(7° y 8° básico)</td>
+          <td>A</td>
+          <td>18814032</td>
+          <td>7</td>
+          <td>F</td>
+          <td>YESSICA WILDA</td>
+          <td>SALDIVIA</td>
+          <td>MUÑOZ</td>
+          <td></td>
+          <td>SAN PEDRO DE LA PAZ</td>
+          <td>8108</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1994-07-04</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>3</td>
+          <td>Nivel Básico 3(7° y 8° básico)</td>
+          <td>A</td>
+          <td>17595969</td>
+          <td>6</td>
+          <td>F</td>
+          <td>ANGELA CECILIA</td>
+          <td>CONTRERAS</td>
+          <td>RIQUELME</td>
+          <td>ESTAMBUL, 2537, POBL. 18 DE SEPTIEMBRE</td>
+          <td>HUALPÉN</td>
+          <td>8112</td>
+          <td></td>
+          <td></td>
+          <td>59313430</td>
+          <td>1990-04-02</td>
+          <td>0</td>
+          <td>2021-07-12</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>3</td>
+          <td>Nivel Básico 3(7° y 8° básico)</td>
+          <td>A</td>
+          <td>20956497</td>
+          <td>1</td>
+          <td>F</td>
+          <td>JAVIERA IGNACIA</td>
+          <td>GONZÁLEZ</td>
+          <td>CUEVAS</td>
+          <td></td>
+          <td>CAÑETE</td>
+          <td>8203</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2002-02-23</td>
+          <td>0</td>
+          <td>2021-07-13</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4544</td>
+          <td>165</td>
+          <td>3</td>
+          <td>Nivel Básico 3(7° y 8° básico)</td>
+          <td>A</td>
+          <td>18973770</td>
+          <td>K</td>
+          <td>F</td>
+          <td>ALEJANDRA ANTONIA</td>
+          <td>CORTÉS</td>
+          <td>SILVA</td>
+          <td>CAPITAN PRAT</td>
+          <td>SAN JOAQUÍN</td>
+          <td>13129</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>1995-06-09</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-04-13</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+      </tbody>
+    </table>
+    <br />
+  </body>
+</html>

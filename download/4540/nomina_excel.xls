@@ -1,0 +1,2598 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>.:SIGE:. Ministerio de Educación</title>
+    <meta content="text/html;charset=iso-8859-1" http-equiv="Cache-Control" />
+    <meta content="no-cache" http-equiv="Pragma" />
+    <meta content="-1" http-equiv="Expires" />
+    <meta content="Mineduc - Informatica" name="Author" />
+    <link type="image/ico" href="https://staticv2.mineduc.cl/img/favicon.ico" rel="icon" />
+    <link type="../image/ico" href="favicon.ico" rel="icon" />
+  </head>
+  <body>
+    <br />
+    <br />
+    <table width="100%">
+      <thead>
+        <tr>
+          <th scope="col">Año</th>
+          <th scope="col">RBD</th>
+          <th scope="col">Cod Tipo Enseñanza</th>
+          <th scope="col">Cod Grado</th>
+          <th scope="col">Desc Grado</th>
+          <th scope="col">Letra Curso</th>
+          <th scope="col">Run</th>
+          <th scope="col">Dígito Ver.</th>
+          <th scope="col">Genero</th>
+          <th scope="col">Nombres</th>
+          <th scope="col">Apellido Paterno</th>
+          <th scope="col">Apellido Materno</th>
+          <th scope="col">Dirección</th>
+          <th scope="col">Comuna Residencia</th>
+          <th scope="col">Código Comuna Residencia</th>
+          <th scope="col">Email</th>
+          <th scope="col">Telefono</th>
+          <th scope="col">Celular</th>
+          <th scope="col">Fecha Nacimiento</th>
+          <th scope="col">Código Etnia</th>
+          <th scope="col">Fecha Incorporación Curso</th>
+          <th scope="col">Fecha Retiro</th>
+          <th scope="col">%Asistenca</th>
+          <th scope="col">Promedio Final</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25561622</td>
+          <td>6</td>
+          <td>M</td>
+          <td>TOMÁS AGUSTÍN</td>
+          <td>HERRERA</td>
+          <td>ROMERO</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-11-12</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-31</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25497707</td>
+          <td>1</td>
+          <td>M</td>
+          <td>LUCAS ANDRÉS</td>
+          <td>GONZÁLEZ</td>
+          <td>PONCE</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-08-27</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-11</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>100495262</td>
+          <td>2</td>
+          <td>M</td>
+          <td>VALERI SOFÍA</td>
+          <td>JIMENEZ</td>
+          <td>DAVID</td>
+          <td>ANIBAL PINTO</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>76943629</td>
+          <td>2016-12-03</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25425586</td>
+          <td>6</td>
+          <td>M</td>
+          <td>RAMIRO ENRIQUE</td>
+          <td>ORTIZ</td>
+          <td>QUINTEROS</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-06-26</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25441928</td>
+          <td>1</td>
+          <td>M</td>
+          <td>PETER ALONSO</td>
+          <td>MORENO</td>
+          <td>POBLETE</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-07-13</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25404690</td>
+          <td>6</td>
+          <td>M</td>
+          <td>DANIEL ALONSO</td>
+          <td>LATORRE</td>
+          <td>BUSTOS</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-06-04</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25447642</td>
+          <td>0</td>
+          <td>M</td>
+          <td>VICENTE LEÓN SANTIAGO</td>
+          <td>FONSECA</td>
+          <td>VILLABLANCA</td>
+          <td>PASAJE 32 CASA 2014 TENIEMNTE MERINO 1B. NORTE</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-07-20</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>26692610</td>
+          <td>3</td>
+          <td>F</td>
+          <td>ANA PAULA</td>
+          <td>ESPINOZA</td>
+          <td>MORALES</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-08-30</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25388782</td>
+          <td>6</td>
+          <td>F</td>
+          <td>TRINIDAD SIMONETT</td>
+          <td>BUSTOS</td>
+          <td>PÉREZ</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-05-26</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>2021-05-03</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25538997</td>
+          <td>1</td>
+          <td>M</td>
+          <td>JULIÁN EMANUEL</td>
+          <td>ÁLVAREZ</td>
+          <td>MORALES</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-10-17</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25654013</td>
+          <td>4</td>
+          <td>F</td>
+          <td>MAILEN INARA</td>
+          <td>GUZMÁN</td>
+          <td>SEPÚLVEDA</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2017-01-30</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25528025</td>
+          <td>2</td>
+          <td>F</td>
+          <td>SOPHIA ANTONIA DE DIOS</td>
+          <td>HERNÁNDEZ</td>
+          <td>BASTIDAS</td>
+          <td>ANIBAL PINTO 1951 DPTO. 502 TORRE 758</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>75405101</td>
+          <td>2016-10-05</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25608645</td>
+          <td>K</td>
+          <td>F</td>
+          <td>ISABELLA VICTORIA</td>
+          <td>OSSES</td>
+          <td>HERRERA</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-12-22</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>2021-04-13</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25602032</td>
+          <td>7</td>
+          <td>M</td>
+          <td>ELEAZAR ELÍAS</td>
+          <td>RAMÍREZ</td>
+          <td>HERNÁNDEZ</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-12-17</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25607971</td>
+          <td>2</td>
+          <td>M</td>
+          <td>ALONSO ELÍAS</td>
+          <td>VALENZUELA</td>
+          <td>ZURITA</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-12-22</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25651874</td>
+          <td>0</td>
+          <td>M</td>
+          <td>CRISTHIAN ÉZEQUIEL</td>
+          <td>VELÁSQUEZ</td>
+          <td>SÁEZ</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2017-01-28</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>2021-08-03</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25342002</td>
+          <td>2</td>
+          <td>M</td>
+          <td>FELIPE ALEXIS</td>
+          <td>FIGUEROA</td>
+          <td>MOLINA</td>
+          <td></td>
+          <td>PENCO</td>
+          <td>8107</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-04-06</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25679756</td>
+          <td>9</td>
+          <td>F</td>
+          <td>CATALEYA PASCAL ALEJANDRA</td>
+          <td>CONCHA</td>
+          <td>RIVAS</td>
+          <td></td>
+          <td>PENCO</td>
+          <td>8107</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2017-02-20</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25552590</td>
+          <td>5</td>
+          <td>M</td>
+          <td>DIEGO ALEJANDRO</td>
+          <td>OLIVA</td>
+          <td>SOTO</td>
+          <td>IÑIGO GARCIA 782</td>
+          <td>SAN PEDRO DE LA PAZ</td>
+          <td>8108</td>
+          <td></td>
+          <td></td>
+          <td>63657512</td>
+          <td>2016-10-25</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25658864</td>
+          <td>1</td>
+          <td>F</td>
+          <td>MAYSA BELLA</td>
+          <td>CHEN</td>
+          <td>ELGUETA</td>
+          <td></td>
+          <td>SAN PEDRO DE LA PAZ</td>
+          <td>8108</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2017-01-06</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25600537</td>
+          <td>9</td>
+          <td>M</td>
+          <td>EARENDIL RAGNOR</td>
+          <td>CHAVARRÍA</td>
+          <td>RUIZ</td>
+          <td></td>
+          <td>TALCAHUANO</td>
+          <td>8110</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-12-07</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25644649</td>
+          <td>9</td>
+          <td>M</td>
+          <td>BENJAMÍN IGNACIO</td>
+          <td>ESPINOZA</td>
+          <td>REYES</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2017-01-19</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25349217</td>
+          <td>1</td>
+          <td>M</td>
+          <td>YOEL ISRRAEL</td>
+          <td>CATALÁN</td>
+          <td>NÚÑEZ</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-04-11</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25666551</td>
+          <td>4</td>
+          <td>M</td>
+          <td>AMARO ALONSO</td>
+          <td>MONTERO</td>
+          <td>LÓPEZ</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2017-02-10</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25506456</td>
+          <td>8</td>
+          <td>M</td>
+          <td>AMARO IGNACIO</td>
+          <td>GAMONAL</td>
+          <td>BASTÍAS</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-09-09</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25676485</td>
+          <td>7</td>
+          <td>F</td>
+          <td>AGUSTINA ISIDORA</td>
+          <td>CLARKE</td>
+          <td>RUBILAR</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2017-02-15</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25338193</td>
+          <td>0</td>
+          <td>M</td>
+          <td>MATÍAS ANDRÉS</td>
+          <td>CAMPOS</td>
+          <td>DURÁN</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-04-04</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>A</td>
+          <td>25422995</td>
+          <td>4</td>
+          <td>M</td>
+          <td>CRISTÓBAL ANDRÉS</td>
+          <td>REYES</td>
+          <td>NÚÑEZ</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-06-25</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25651874</td>
+          <td>0</td>
+          <td>M</td>
+          <td>CRISTHIAN ÉZEQUIEL</td>
+          <td>VELÁSQUEZ</td>
+          <td>SÁEZ</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2017-01-28</td>
+          <td>11</td>
+          <td>2021-08-03</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25544363</td>
+          <td>1</td>
+          <td>F</td>
+          <td>FRANCISCA IGNACIA</td>
+          <td>SUAZO</td>
+          <td>GONZÁLEZ</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-10-20</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25516217</td>
+          <td>9</td>
+          <td>F</td>
+          <td>JOSEFFA PAZ</td>
+          <td>SAAVEDRA</td>
+          <td>CARRILLO</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-09-25</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25496063</td>
+          <td>2</td>
+          <td>M</td>
+          <td>CAMILO ALONSO</td>
+          <td>SANHUEZA</td>
+          <td>GARCÍA</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-09-02</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25537843</td>
+          <td>0</td>
+          <td>M</td>
+          <td>ARIEL ALEXANDER</td>
+          <td>MARTÍNEZ</td>
+          <td>TARDÓN</td>
+          <td>PEDRO LAGOS 81 CHILLANCITO</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-10-06</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25366802</td>
+          <td>4</td>
+          <td>F</td>
+          <td>MARTINA PAZ</td>
+          <td>MARDONES</td>
+          <td>CONTRERAS</td>
+          <td>A. PINTO BLOCK 1871 DEPTO. 44</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-05-02</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25609192</td>
+          <td>5</td>
+          <td>M</td>
+          <td>JAVIER ALONSO</td>
+          <td>FIGUEROA</td>
+          <td>MATUS</td>
+          <td>ABDON CIFUENTES 2132 BARRIO NORTE</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-12-21</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25524851</td>
+          <td>0</td>
+          <td>F</td>
+          <td>LIESEL AMANDA</td>
+          <td>ÁLVAREZ</td>
+          <td>GARCÍA</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-09-30</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25392040</td>
+          <td>8</td>
+          <td>F</td>
+          <td>MARTINA ESPERANZA</td>
+          <td>BARRERA</td>
+          <td>HIDALGO</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-05-28</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25604306</td>
+          <td>8</td>
+          <td>M</td>
+          <td>CRISTÓBAL ALONSO</td>
+          <td>MIRANDA</td>
+          <td>MENÉNDEZ</td>
+          <td>FCO ORELLANA 2024 VILLA SAN ANDRES</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-12-18</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>100456182</td>
+          <td>8</td>
+          <td>M</td>
+          <td>Jose Andres</td>
+          <td>Rodriguez</td>
+          <td>Prada</td>
+          <td>rengo</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td>pradaangelica16@gmail.com</td>
+          <td></td>
+          <td>37050155</td>
+          <td>2016-09-19</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-09</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25566214</td>
+          <td>7</td>
+          <td>F</td>
+          <td>IGNACIA MATILDA ISIDORA</td>
+          <td>CABRERA</td>
+          <td>CAMPOS</td>
+          <td>CALLE BLANCO 7 PEDRO DE VALDIVIA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td>946929917</td>
+          <td>46929917</td>
+          <td>2016-11-11</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25561622</td>
+          <td>6</td>
+          <td>M</td>
+          <td>TOMÁS AGUSTÍN</td>
+          <td>HERRERA</td>
+          <td>ROMERO</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-11-12</td>
+          <td>0</td>
+          <td>2021-03-31</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>100526781</td>
+          <td>8</td>
+          <td>M</td>
+          <td>LARA MICAELA</td>
+          <td>VERA</td>
+          <td>MOURA</td>
+          <td>TUCAPEL</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>88326199</td>
+          <td>2016-10-12</td>
+          <td>0</td>
+          <td>2021-04-05</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25608645</td>
+          <td>K</td>
+          <td>F</td>
+          <td>ISABELLA VICTORIA</td>
+          <td>OSSES</td>
+          <td>HERRERA</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-12-22</td>
+          <td>11</td>
+          <td>2021-04-13</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25388782</td>
+          <td>6</td>
+          <td>F</td>
+          <td>TRINIDAD SIMONETT</td>
+          <td>BUSTOS</td>
+          <td>PÉREZ</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-05-26</td>
+          <td>11</td>
+          <td>2021-05-03</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25431042</td>
+          <td>5</td>
+          <td>M</td>
+          <td>AGUSTÍN ALEXIS</td>
+          <td>ABURTO</td>
+          <td>MENDOZA</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-07-01</td>
+          <td>11</td>
+          <td>2021-06-30</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25343495</td>
+          <td>3</td>
+          <td>M</td>
+          <td>VICENTE JULIÁN</td>
+          <td>CASTAGNOLI</td>
+          <td>CAMPOS</td>
+          <td>CALLE TRES NORTE BRISASA DE SAN PEDRO</td>
+          <td>SAN PEDRO DE LA PAZ</td>
+          <td>8108</td>
+          <td>CLAUDIA.CAMPOSJ@GMAIL.COM</td>
+          <td>976278765</td>
+          <td>94219810</td>
+          <td>2016-04-11</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-10</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25707924</td>
+          <td>4</td>
+          <td>F</td>
+          <td>EMMA LISSANDRA</td>
+          <td>RAMOS</td>
+          <td>RUIZ</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2017-03-15</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25529145</td>
+          <td>9</td>
+          <td>F</td>
+          <td>PASCUALA EMILIA</td>
+          <td>SANDOVAL</td>
+          <td>SALAZAR</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-10-03</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25490652</td>
+          <td>2</td>
+          <td>M</td>
+          <td>AGUSTÍN EMILIO</td>
+          <td>POBLETE</td>
+          <td>URIBE</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-08-26</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25378244</td>
+          <td>7</td>
+          <td>F</td>
+          <td>BELÉN EMILIA</td>
+          <td>DEL POZO</td>
+          <td>ARRIAGADA</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-05-15</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25656821</td>
+          <td>7</td>
+          <td>F</td>
+          <td>PÍA FERNANDA</td>
+          <td>AVERSANO</td>
+          <td>MUÑOZ</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2017-01-31</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25602314</td>
+          <td>8</td>
+          <td>F</td>
+          <td>ESPERANZA NOEMÍ</td>
+          <td>ANRIQUE</td>
+          <td>PACHECO</td>
+          <td>GUANAQUEROS 2117</td>
+          <td>SAN BERNARDO</td>
+          <td>13401</td>
+          <td></td>
+          <td></td>
+          <td>62719288</td>
+          <td>2016-12-13</td>
+          <td>0</td>
+          <td>2021-03-12</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>4</td>
+          <td>1er nivel de Transición (Pre-kinder)</td>
+          <td>C</td>
+          <td>25767134</td>
+          <td>8</td>
+          <td>F</td>
+          <td>JOSEFA PAZ</td>
+          <td>NUÑEZ</td>
+          <td>SOTO</td>
+          <td>CAMINO A CUARTAGO KM 9 INTERIOR</td>
+          <td>PEMUCO</td>
+          <td>16105</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2017-05-04</td>
+          <td>0</td>
+          <td>2021-03-25</td>
+          <td>2021-03-26</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25042015</td>
+          <td>3</td>
+          <td>F</td>
+          <td>EMILIA ISIDORA</td>
+          <td>GARRIDO</td>
+          <td>CAAMAÑO</td>
+          <td>LAUTARO 1766 BARRIO NORTE</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td>MICASTILLO.ESCUELADELENGUAJE@GMAIL.COM</td>
+          <td>0412211945</td>
+          <td></td>
+          <td>2015-07-08</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25004670</td>
+          <td>7</td>
+          <td>F</td>
+          <td>AMALIA PILAR</td>
+          <td>ALTAMIRANO</td>
+          <td>PÉREZ</td>
+          <td>AVDA.CAMPOS DEPORTIVOS</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-06-06</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>24992098</td>
+          <td>3</td>
+          <td>M</td>
+          <td>FRANCO ANDRÉS</td>
+          <td>BALTIERRA</td>
+          <td>POBLETE</td>
+          <td>PSAJE 6 VILLA ESPERANZA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-05-12</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25029995</td>
+          <td>8</td>
+          <td>F</td>
+          <td>JOSEFA BELÉN</td>
+          <td>BRANADA</td>
+          <td>COLI</td>
+          <td>PASAJE K TTE. MERINO</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-07-02</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25207094</td>
+          <td>K</td>
+          <td>M</td>
+          <td>PABLO ALFONSO</td>
+          <td>CARRILLO</td>
+          <td>QUINTEROS</td>
+          <td>IRENE FREI VILLA ESPERANZA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-11-25</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25046768</td>
+          <td>0</td>
+          <td>F</td>
+          <td>AGUSTINA ABIGAIL</td>
+          <td>ESPINOZA</td>
+          <td>BASTÍAS</td>
+          <td>PSAJE 6 VILLA ESPERANZA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-07-20</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>24977403</td>
+          <td>0</td>
+          <td>M</td>
+          <td>TOMÁS LEONEL</td>
+          <td>FUENTES</td>
+          <td>MELLA</td>
+          <td>PSAJE 18 BARRIO NORTE</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-05-07</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25142304</td>
+          <td>0</td>
+          <td>M</td>
+          <td>SEBASTIÁN LORENZO</td>
+          <td>GUTIÉRREZ</td>
+          <td>LEIVA</td>
+          <td>PSAJE2VILLA ESPERANZA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-10-30</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>26382275</td>
+          <td>7</td>
+          <td>M</td>
+          <td>MARCOS JOSE</td>
+          <td>HERNANDEZ</td>
+          <td>ALEMAN</td>
+          <td>EL GOLF</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-02-18</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>24992752</td>
+          <td>K</td>
+          <td>M</td>
+          <td>GABRIEL ANTONIO</td>
+          <td>MEDINA</td>
+          <td>NARVÁEZ</td>
+          <td>CALLE EDO. FREI LAGUNA LO MENDEZ</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-05-25</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25254308</td>
+          <td>2</td>
+          <td>M</td>
+          <td>CARLOS FACUNDO ENRIQUE</td>
+          <td>MORA</td>
+          <td>PÉREZ</td>
+          <td>LIENTUR , BARRIO NORTE</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-01-13</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25328165</td>
+          <td>0</td>
+          <td>F</td>
+          <td>CAROLINA SARAY</td>
+          <td>MUÑOZ</td>
+          <td>MATAMALA</td>
+          <td>J.GONZALEZ VERA 1557 SANTA SABINA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-03-23</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25058520</td>
+          <td>9</td>
+          <td>M</td>
+          <td>JOAQUÍN ALONSO</td>
+          <td>PARRA</td>
+          <td>BAQUEDANO</td>
+          <td>PASAJE EL CARMEN BARRIO NORTE</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td>MICASTILLO.ESCUELADELENGUAJE@GMAIL.COM</td>
+          <td>0412211945</td>
+          <td></td>
+          <td>2015-08-03</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25129818</td>
+          <td>1</td>
+          <td>M</td>
+          <td>MÁXIMO BALTASAR</td>
+          <td>QUINTANA</td>
+          <td>RIVAS</td>
+          <td>CASTELLON 1577</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td>MICASTILLO.ESCUELADELENGUAJE@GMAIL.COM</td>
+          <td>0412211945</td>
+          <td></td>
+          <td>2015-10-04</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>24997846</td>
+          <td>9</td>
+          <td>F</td>
+          <td>ISIDORA ANN MELINKA</td>
+          <td>RIQUELME</td>
+          <td>MORRISON</td>
+          <td>F.BARTOLOME DEL POZO</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-05-29</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25008781</td>
+          <td>0</td>
+          <td>F</td>
+          <td>JOSEFA ANTONIA</td>
+          <td>ROA</td>
+          <td>BURGOS</td>
+          <td>CALLE COND: LAS PRINCESAS</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-06-01</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>100495249</td>
+          <td>5</td>
+          <td>M</td>
+          <td>ASHLYBEL VALESKA</td>
+          <td>ROMAN</td>
+          <td>JIMENEZ</td>
+          <td>ANIBAL PINTO</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>76943629</td>
+          <td>2015-06-22</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25254010</td>
+          <td>5</td>
+          <td>F</td>
+          <td>JOSEFA SOLEDAD</td>
+          <td>SAN MARTÍN</td>
+          <td>MARDONES</td>
+          <td>TUCAPEL</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-01-13</td>
+          <td>11</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25319554</td>
+          <td>1</td>
+          <td>M</td>
+          <td>FERNANDO AGUSTÍN</td>
+          <td>SANHUEZA</td>
+          <td>CID</td>
+          <td>PSAJE 5 VILLA ESPERANZA</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-03-14</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25030625</td>
+          <td>3</td>
+          <td>M</td>
+          <td>IVAN ALEXANDER FRANCISCO</td>
+          <td>TORRES</td>
+          <td>MALDONADO</td>
+          <td>CALLE DEL MEDIO BLOCK 252</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-07-02</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25032802</td>
+          <td>8</td>
+          <td>F</td>
+          <td>ISIDORA ANAHIS</td>
+          <td>VILLEGAS</td>
+          <td>AGUAYO</td>
+          <td>AVDA VILLA ESPERANZA PASAJE 5 CASA 2154</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>87364980</td>
+          <td>2015-07-05</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-19</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>26278960</td>
+          <td>8</td>
+          <td>M</td>
+          <td>MAXIMILIANO IRE</td>
+          <td>TORREALBA</td>
+          <td>ROMERO</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-03-05</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25059085</td>
+          <td>7</td>
+          <td>M</td>
+          <td>SEBASTIÁN MATEO</td>
+          <td>PEÑA</td>
+          <td>REYES</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-07-27</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>24999786</td>
+          <td>2</td>
+          <td>M</td>
+          <td>MAXIMO ANDRÉS</td>
+          <td>OÑATE</td>
+          <td>MELIMÁN</td>
+          <td>PASAJE4 VILLA ESPERANZA</td>
+          <td>CHIGUAYANTE</td>
+          <td>8103</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-06-02</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-11</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>25172332</td>
+          <td>K</td>
+          <td>M</td>
+          <td>ALEJANDRO EDUARDO</td>
+          <td>URRUTIA</td>
+          <td>MOLINA</td>
+          <td>OJOS DEL SALADO 94 BARRIO NORTE</td>
+          <td>CONTULMO</td>
+          <td>8204</td>
+          <td></td>
+          <td></td>
+          <td>95402469</td>
+          <td>2015-11-07</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>A</td>
+          <td>24975868</td>
+          <td>K</td>
+          <td>F</td>
+          <td>ISABELLA FRANCISCA</td>
+          <td>CORONADO</td>
+          <td>MONTERO</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-05-06</td>
+          <td>0</td>
+          <td>2021-03-27</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>24952865</td>
+          <td>K</td>
+          <td>F</td>
+          <td>MAGDALENA IGNACIA</td>
+          <td>CARTES</td>
+          <td>SILVA</td>
+          <td>A. PINTO 2026 BLOCK G DEPTO 201</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-04-10</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>100488133</td>
+          <td>4</td>
+          <td>M</td>
+          <td>ORLANDO ARTURO</td>
+          <td>MELENDEZ</td>
+          <td>MARQUEZ</td>
+          <td>ONGOLMO</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>65228871</td>
+          <td>2015-11-26</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>25297168</td>
+          <td>8</td>
+          <td>M</td>
+          <td>FAUSTINO NEFTALÍ</td>
+          <td>MORA</td>
+          <td>PADILLA</td>
+          <td>BELLAVISTA 1747 BARRIO NORTE</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-02-11</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>24999587</td>
+          <td>8</td>
+          <td>F</td>
+          <td>FLORENCIA ANTONIA</td>
+          <td>MORALES</td>
+          <td>PINOCHET</td>
+          <td>EJERCITO 1039</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>84470995</td>
+          <td>2015-06-01</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>25268187</td>
+          <td>6</td>
+          <td>F</td>
+          <td>AYLÉN ISIDORA</td>
+          <td>MUÑOZ</td>
+          <td>MERINO</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-01-28</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>100487865</td>
+          <td>1</td>
+          <td>F</td>
+          <td>EDIMAR JAVYANID</td>
+          <td>ORJUELA</td>
+          <td>PEREZ</td>
+          <td>CALLE EL GOLF</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>37620556</td>
+          <td>2016-03-18</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>25239649</td>
+          <td>7</td>
+          <td>M</td>
+          <td>JONATHAN ALONZO JACOB</td>
+          <td>PÉREZ</td>
+          <td>MORA</td>
+          <td></td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-12-18</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>25026029</td>
+          <td>6</td>
+          <td>F</td>
+          <td>MARTINA EMILIA NOEMÍ</td>
+          <td>BURGOS</td>
+          <td>INOSTROZA</td>
+          <td>JANEQUEO 1622</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td>MICASTILLO.ESCUELADELENGUAJE@GMAIL.COM</td>
+          <td>0412211945</td>
+          <td></td>
+          <td>2015-06-24</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>100530020</td>
+          <td>3</td>
+          <td>F</td>
+          <td>MIA MELISSA DE JESUS</td>
+          <td>TOVAR</td>
+          <td>CASTAÑO</td>
+          <td>EJERCITO</td>
+          <td>CONCEPCIÓN</td>
+          <td>8101</td>
+          <td></td>
+          <td></td>
+          <td>45670866</td>
+          <td>2015-11-06</td>
+          <td>0</td>
+          <td>2021-05-18</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>100481695</td>
+          <td>8</td>
+          <td>M</td>
+          <td>ISAAC JESUS</td>
+          <td>RAMOS</td>
+          <td>RAMONES</td>
+          <td>POLUX</td>
+          <td>PENCO</td>
+          <td>8107</td>
+          <td></td>
+          <td></td>
+          <td>99851671</td>
+          <td>2016-03-19</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>100461690</td>
+          <td>8</td>
+          <td>M</td>
+          <td>DYLHAN ALFONZO</td>
+          <td>MAZA</td>
+          <td>ARISMENDI</td>
+          <td>CALLE PATRICIO LYNCH</td>
+          <td>TALCAHUANO</td>
+          <td>8110</td>
+          <td></td>
+          <td></td>
+          <td>62061552</td>
+          <td>2015-12-26</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>25112628</td>
+          <td>3</td>
+          <td>M</td>
+          <td>BRUNO JOSÉ EVAIR</td>
+          <td>CONCHA</td>
+          <td>DOS SANTOS</td>
+          <td></td>
+          <td>TALCAHUANO</td>
+          <td>8110</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-09-08</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-17</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>25213526</td>
+          <td>K</td>
+          <td>M</td>
+          <td>ALONSO AGUSTÍN</td>
+          <td>ARAYA</td>
+          <td>CONTRERAS</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-12-03</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>25294916</td>
+          <td>K</td>
+          <td>F</td>
+          <td>VALENTINA JULIETTE</td>
+          <td>ARROYO</td>
+          <td>ÁVILA</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-02-23</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>24975868</td>
+          <td>K</td>
+          <td>F</td>
+          <td>ISABELLA FRANCISCA</td>
+          <td>CORONADO</td>
+          <td>MONTERO</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-05-06</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>2021-03-27</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>25005658</td>
+          <td>3</td>
+          <td>F</td>
+          <td>MÍA ANTONELLA</td>
+          <td>GARCÉS</td>
+          <td>NAVARRO</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-06-04</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>25232493</td>
+          <td>3</td>
+          <td>F</td>
+          <td>FLORENCIA IGNACIA</td>
+          <td>HARAN</td>
+          <td>TARDÓN</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-12-14</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>25169225</td>
+          <td>4</td>
+          <td>F</td>
+          <td>RENATA ISIDORA</td>
+          <td>MOSCOSO</td>
+          <td>VALENZUELA</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2015-11-05</td>
+          <td>0</td>
+          <td>2021-03-01</td>
+          <td>1900-01-01</td>
+          <td>0</td>
+          <td>0.0</td>
+        </tr>
+        <tr>
+          <td>2021</td>
+          <td>4540</td>
+          <td>10</td>
+          <td>5</td>
+          <td>2° nivel de Transición (Kinder)</td>
+          <td>C</td>
+          <td>25268880</td>
+          <td>3</td>
+          <td>F</td>
+          <td>JAVIERA ANAÍS</td>
+          <td>MUÑOZ</td>
+          <td>HIDALGO</td>
+          <td></td>
+          <td>SANTIAGO</td>
+          <td>13101</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>2016-01-30</td>
+          <td>0</td>
+          <td>2021-06-17</td>
+          <td>1900-01-01</td>
+          <td>100</td>
+          <td>0.0</td>
+        </tr>
+      </tbody>
+    </table>
+    <br />
+  </body>
+</html>
