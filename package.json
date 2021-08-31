@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^10.2.0",
+    "request": "^2.88.2"
+  },
+  "name": "scrapingsys",
+  "version": "1.0.0",
+  "description": "Scraping para SLEP",
+  "main": "prueba.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kafeiih/ScrapingSys.git"
+  },
+  "keywords": [
+    "scraping"
+  ],
+  "author": "Oscar Escobar Moraga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kafeiih/ScrapingSys/issues"
+  },
+  "homepage": "https://github.com/Kafeiih/ScrapingSys#readme"
+}
