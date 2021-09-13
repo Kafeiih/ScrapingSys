@@ -10,7 +10,7 @@ for (let index = 0; index < C.length; index++) {
 
     (async () => {
         const browser = await puppeteer.launch({
-            headless: false
+            headless: true
         });
         const page = await browser.newPage();
     
@@ -60,7 +60,6 @@ for (let index = 0; index < C.length; index++) {
                 await dialog.accept()
     
                 await page.waitForTimeout(2000)
-
             }
     
             await browser.close();
